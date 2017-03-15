@@ -1,0 +1,12 @@
+E:\大二(2015-2016)下学期\数据库原理与设计\Schedule system\Schedule system\bin\Debug\Schedule system.exe.config
+E:\大二(2015-2016)下学期\数据库原理与设计\Schedule system\Schedule system\bin\Debug\Schedule system.exe
+E:\大二(2015-2016)下学期\数据库原理与设计\Schedule system\Schedule system\bin\Debug\Schedule system.pdb
+E:\大二(2015-2016)下学期\数据库原理与设计\Schedule system\Schedule system\obj\Debug\Schedule system.csprojResolveAssemblyReference.cache
+E:\大二(2015-2016)下学期\数据库原理与设计\Schedule system\Schedule system\obj\Debug\Schedule_system.Properties.Resources.resources
+E:\大二(2015-2016)下学期\数据库原理与设计\Schedule system\Schedule system\obj\Debug\Schedule system.csproj.GenerateResource.Cache
+E:\大二(2015-2016)下学期\数据库原理与设计\Schedule system\Schedule system\obj\Debug\Schedule system.exe
+E:\大二(2015-2016)下学期\数据库原理与设计\Schedule system\Schedule system\obj\Debug\Schedule system.pdb
+E:\大二(2015-2016)下学期\数据库原理与设计\Schedule system\Schedule system\bin\Debug\Bmob-Windows.dll
+E:\大二(2015-2016)下学期\数据库原理与设计\Schedule system\Schedule system\obj\Debug\Schedule_system.LoginForm.resources
+E:\大二(2015-2016)下学期\数据库原理与设计\Schedule system\Schedule system\obj\Debug\Schedule_system.mainform.resources
+E:\大二(2015-2016)下学期\数据库原理与设计\Schedule system\Schedule system\obj\Debug\Schedule_system.manageForm.resources
